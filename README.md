@@ -5,6 +5,33 @@ The **Instagram Scraper Bot** is a powerful and efficient application designed t
 
 ---
 
+
+## 📷 Video 
+
+
+https://github.com/user-attachments/assets/886df400-f135-43ca-9f31-0e268465ffb6
+
+
+---
+
+## 📷 Screenshots
+
+
+
+1. **📊 Scraping Dashboard**  
+![Screenshot (19)](https://github.com/user-attachments/assets/f8e80466-8198-407d-9693-70d1acb4a143)
+
+2. **📁 Results Viewer**
+   
+   *View or export the scraped data in real-time.*
+   
+![Screenshot (21)](https://github.com/user-attachments/assets/c0ab98e7-ae52-469d-ae96-1c3b9dbc98c6)
+![Screenshot (20)](https://github.com/user-attachments/assets/07d3eea3-1a65-4f4c-a86c-d9af79394d61)
+
+---
+
+
+
 ## ✨ Features
 
 - 🔐 **Automatic Login**: Securely logs into Instagram using your credentials.
@@ -64,18 +91,7 @@ The **Instagram Scraper Bot** is a powerful and efficient application designed t
 
 ---
 
-## 📷 Screenshots
 
-1. **🔒 Login Screen**  
-   *A simple and secure interface to log in to Instagram.*
-
-2. **📊 Scraping Dashboard**  
-   *Choose between scraping followers, following, likes, or comments.*
-
-3. **📁 Results Viewer**  
-   *View or export the scraped data in real-time.*
-
----
 
 ## 🔒 Security
 
